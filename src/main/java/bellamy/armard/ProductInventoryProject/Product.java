@@ -16,7 +16,8 @@ public class Product {
     public Product(double price, int quantity){
         this.price = price;
         this.quantity = quantity;
-        this.id = rand.nextInt(9000 + 1) + 1000;
+//        this.id = rand.nextInt(9000 + 1) + 1000;
+        this.id = 25;
     }
 
     public double getPrice() {

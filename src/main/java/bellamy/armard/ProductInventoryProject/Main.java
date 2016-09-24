@@ -8,10 +8,10 @@ public class Main {
     public static void main(String[] args){
         Inventory inventory = new Inventory();
         Product broccoli = new Product(5.00, 12);
-        Product cheddar = new Product(10.00, 2);
+        Product bacon = new Product(10.00, 2);
 
         inventory.addProduct(broccoli);
-        inventory.addProduct(cheddar);
+        inventory.addProduct(bacon);
 
         inventory.printInventory();
         inventory.printInventoryTotal();

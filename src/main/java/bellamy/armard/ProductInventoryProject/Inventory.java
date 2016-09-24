@@ -1,8 +1,6 @@
 package bellamy.armard.ProductInventoryProject;
 
 import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * Created by armardbellamy on 9/15/16.
